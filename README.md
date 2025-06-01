@@ -1,0 +1,2 @@
+![CentDash](https://github.com/user-attachments/assets/7b3d7494-70cd-4aaa-bb7f-11ef411d02c7)
+CentDash is a personal finance application that allows users to create budgets, track their expenses, and engage them with financial reporting. With CentDash, users can monitor their spending and expenses, and also visualize their data in an interactive platform that allows them to manage their overall personal finances.
