@@ -13,4 +13,6 @@ CentDash is a personal finance application that allows users to create budgets, 
 **Login Page**
 ![CentDash Homepage](https://github.com/user-attachments/assets/dfa31d0c-b8ed-4e8c-85ec-0983f535b5b7)
 
+**More updates and additions will be coming soon.**
+
 
