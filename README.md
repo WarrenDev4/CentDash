@@ -4,10 +4,15 @@ CentDash is an AI personal finance application that will utilize the power of AI
 **Tools being used for this project:**
 
 `Flask` – Creating the backend API and web server for handling user authentication, managing budgets and expenses, processing financial data, and connecting to the SQLite database.
+
 `Next.js` – Building the frontend framework with server-side rendering and routing to deliver fast, SEO-friendly pages and smooth navigation across budgeting, tracking, and reporting features.
+
 `PyTorch` – Powering the AI integration layer for building and training machine learning models that deliver personalized financial insights, spending predictions, and intelligent budget recommendations.
+
 `React.js` – Developing modular, interactive UI components within Next.js to enable dynamic expense entry, budget management, and real-time data interaction.
+
 `TypeScript` – Adding static typing to the React/Next.js codebase to ensure reliable data handling, reduce runtime errors, and improve developer productivity.
+
 `SQLite` – Providing lightweight, efficient relational data storage for user budgets, expenses, and profile data, supporting complex queries for financial reporting.
 
 **Landing Page**
