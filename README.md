@@ -3,6 +3,6 @@ A machine learning platform for personal finance that predicts monthly spending 
 
 Tools being used: Flask, Next.js, React, SQLAlchemy,TypeScript, Tailwind CSS, Plotly.js, SQLite, PyTorch, Scikit-learn, NumPy, Pandas, Poetry, Pytest
 
-**This is an updated and streamlined project to add AI Engineering practices. More information will be coming soon.**
+**This is an updated and streamlined project to add AI Engineering practices. More information will be coming soon.** 
 
 
